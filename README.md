@@ -1,16 +1,30 @@
-## Hi there 👋
+## Personal Information
 
-<!--
-**Mitya2087/Mitya2087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Full name:** Dzmitry Usharau  
+- **University:** Belarusian State University (BSU)  
+- **Faculty:** Faculty of Applied Mathematics and Computer Science (FAMCS)  
+- **Program & year:** Bachelor in Informatics (Yandex group), 1st year  
+- **Enrollment year:** 2025  
+- **Expected graduation:** 2029 (4-year bachelor program)  
+- **Student email:** `fpm.usharov@bsu.by`  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+- **Python**
+- **Pandas**
+- **Data visualization**
+- **A/B testing**
+- **Exploratory data analysis (EDA)**
+
+---
+
+## Contact
+
+- **Telegram:** [@mitya2087](https://t.me/mitya2087)  
+- **LinkedIn:** [linkedin.com/in/dmitry2087](https://www.linkedin.com/in/dmitry2087/)  
+- **Student email:** `fpm.usharov@bsu.by`  
+- **Personal emails:**  
+  - `fai2008ms@gmail.com`  
+  - `usharov2087@yandex.by`
