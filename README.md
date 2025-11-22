@@ -26,5 +26,5 @@
 - **LinkedIn:** [linkedin.com/in/dmitry2087](https://www.linkedin.com/in/dmitry2087/)  
 - **Student email:** `fpm.usharov@bsu.by`  
 - **Personal emails:**  
-  - `fai2008ms@gmail.com`  
+  - `usharaudmitry2087@gmail.com`
   - `usharov2087@yandex.by`
